@@ -6,4 +6,4 @@
 
 Autor: Erick Leite Freire<br>
 Criado em: 03-08-2024<br>
-Site: [Erick Freire](https://www.escoladoautodidata.com.br)<br>
+Site: [Escola do Autodidata](https://www.escoladoautodidata.com.br)<br>
